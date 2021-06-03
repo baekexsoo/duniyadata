@@ -1,0 +1,152 @@
+[
+    {
+      
+        "title": "Arachide",
+        "price": "350F le KG",
+        "quantity": "500KG Disponibles",
+        "rev": "ATCHOU Jean-Marie",
+        "contact": "98456738"
+        
+       
+    },
+    {
+        "title": "Igname",
+        "price": "1300F la Fécule",
+        "quantity": "1 Tonne disponible",
+        "rev": "ATCHOU Jean-Marie",
+        "contact": "98456738"
+        
+    },
+    {
+        "title": "Mangue",
+        "price": "650F le KG",
+        "quantity": "100KG disponibles",
+        "rev": "LOKOSSOU Bienvenu",
+        "contact": "97657834"
+       
+    },
+    {
+        "title": "Gingembre",
+        "price": "200F le Sachet",
+        "quantity": "1 Tonne disponible",
+        "rev": "ADONON Ignace",
+        "contact": "96356909"
+       
+    },
+    {
+        "title": "Laitue",
+        "price": "100F la Grappe",
+        "quantity": "1 Tonne disponible",
+        "rev": "N'TCHA Anaïs",
+        "contact": "67345089"
+       
+    },
+    {
+        "title": "Tomate",
+        "price": "450F le KG",
+        "quantity": "1 Tonne disponible",
+        "rev": "ADONON Ignace",
+        "contact": "96356909"
+       
+    },
+    {
+        "title": "Igname",
+        "price": "1200F la Fécule",
+        "quantity": "1 Tonne disponible",
+         "rev": "GBAGUIDI Marcel",
+        "contact": "65389863"
+        
+    },
+    {
+        "title": "Igname",
+        "price": "1300F la Fécule",
+        "quantity": "1 Tonne disponible",
+         "rev": "GBAGUIDI Marcel",
+        "contact": "65389863"
+    },
+    {
+        "title": "Oeufs",
+        "price": "1200F le Plateau",
+        "quantity": "450 Plateaux disponibles",
+         "rev": "AKOGBATO Brigitte",
+        "contact": "90467823"
+    },
+    {
+        "title": "Manioc",
+        "price": "900F la Fécule",
+        "quantity": "1 Tonne disponible",
+        "rev": "ATCHOU Jean-Marie",
+        "contact": "98456738"
+    },
+    {
+        "title": "Sorgho",
+        "price": "550F le KG",
+        "quantity": "167 KG disponibles",
+        "rev": "ATCHOU Jean-Marie",
+        "contact": "98456738"
+    },
+    {
+        "title": "Coco",
+        "price": "150F l'unité ",
+        "quantity": "1000 disponibles",
+        "rev": "ATCHOU Jean-Marie",
+        "contact": "98456738"
+    },
+    {
+        "title": "Bananes",
+        "price": "400F la Grappe",
+        "quantity": "1 Tonne disponible",
+        "rev": "LOKOSSOU Bienvenu",
+        "contact": "97657834"
+    },
+    {
+        "title": "Ananas",
+        "price": "300F l'unité",
+        "quantity": "1 Tonne disponible",
+        "rev": "LOKOSSOU Bienvenu",
+        "contact": "97657834"
+    },
+    {
+        "title": "Haricot",
+        "price": "350F-600F le KG",
+        "quantity": "1 Tonne disponible",
+        "rev": "ATCHOU Jean-Marie",
+        "contact": "98456738"
+    },
+    {
+        "title": "Voandzou",
+        "price": "1100F le KG",
+        "quantity": "1 Tonne disponible",
+        "rev": "ATCHOU Jean-Marie",
+        "contact": "98456738"
+    },
+    {
+        "title": "Piment",
+        "price": "750F le KG",
+        "quantity": "1 Tonne disponible",
+        "rev": "ADONON Ignace",
+        "contact": "96356909"
+    },
+    {
+        "title": "Ail",
+        "price": "100F le Sachet",
+        "quantity": "1 Tonne disponible",
+        "rev": "ADONON Ignace",
+        "contact": "96356909"
+    },
+    {
+        "title": "Noix De Palme",
+        "price": "500F le KG",
+        "quantity": "150KG disponibles",
+        "rev": "ATCHOU Jean-Marie",
+        "contact": "98456738"
+    },
+    {
+        "title": "Riz",
+        "price": "700F-1100F le KG",
+        "quantity": "1 Tonne disponible",
+        "rev": "ATCHOU Jean-Marie",
+        "contact": "98456738"
+    }
+  
+  ]
